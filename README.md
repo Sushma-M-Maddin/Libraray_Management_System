@@ -2,24 +2,24 @@
 
 This is a library management system project developed in C# with SQL Server for database management. It provides functionalities to manage books, students, issue and return books, and view complete book details.
 
-**## Features**
+**Features**
 
-**### Add Books:** Add new books to the library inventory.
+**Add Books:** Add new books to the library inventory.
 
-**### View Books:** View all the books available in the library.
+**View Books:** View all the books available in the library.
 
-**### Add Student:** Add new students to the library system.
+**Add Student:** Add new students to the library system.
 
-**### View Student:** View all the registered students.
+**View Student:** View all the registered students.
 
-**### Issue Books:** Issue books to students.
+**Issue Books:** Issue books to students.
 
-**### Return Book:** Return books borrowed by students.
+**Return Book:** Return books borrowed by students.
 
-**### Complete Book Details:** Access detailed information about each book in the library.
+**Complete Book Details:** Access detailed information about each book in the library.
 
-**## Technologies Used**
+**Technologies Used**
 
-**### Programming Language:** C#
+**Programming Language:** C#
 
-**### Database Management System:** SQL Server
+**Database Management System:** SQL Server
