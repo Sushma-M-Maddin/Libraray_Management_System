@@ -1,4 +1,4 @@
-__# Library Management System__
+**# Library Management System**
 
 This is a library management system project developed in C# with SQL Server for database management. It provides functionalities to manage books, students, issue and return books, and view complete book details.
 
